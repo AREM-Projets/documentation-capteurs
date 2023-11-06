@@ -1,6 +1,8 @@
 # documentation-capteurs
 Contient la liste des capteurs présents au local AREM ainsi que de la documentation associée.
 
+Note : liste incomplète, qui se concentre actuellement sur les capteurs permettant de détecter les robots adverses à la CDR.
+
 ## Structure
 
 Chaque dossier de ce repo correspond à un type de capteurs différents. Ces types de capteurs sont ensuite séparés selon leur modèle.
