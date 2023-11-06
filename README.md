@@ -21,3 +21,8 @@ Pour chaque capteur ajouté :
 
 Le format du reste de la documentation reste libre.
 
+## Documantation externe
+
+[Discord de la coupe](https://discord.gg/tteC3Cp) pour toute question.
+
+[Documentation écrite par l'équipe VRAC](https://github.com/VRAC-team/la-maxi-liste-ressources-eurobot)

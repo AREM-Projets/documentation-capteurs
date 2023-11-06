@@ -6,12 +6,11 @@ Il va donc émettre de la lumière (un faisceau laser), puis la détecter et cal
 
 ## Avantages
 
-- temps de mesure bien plus faible qu'un capteur Ultrasons (30ms au lieu de 70ms)
-- permet de détecter des objets plus petits (plus précis)
-- plus fiable
+- temps de mesure bien plus faible qu'un capteur ultrasons (30ms au lieu de 70ms, voir datasheets)
+- permet de détecter des objets assez petits
 - interface I2C
 
 ## Inconvénients
 
-- plus complexes en terme de fonctionnement
-- plus chers (mais faits par ST donc pas un problème si sponsor)
+- plus complexes qu'un capteur ultrasons en terme de fonctionnement
+- plus chers que des capteurs ultrasons (mais faits par ST donc pas un problème si sponsor)
